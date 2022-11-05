@@ -6,3 +6,4 @@ gen
 
 .gradle
 build
+src/main/generated
